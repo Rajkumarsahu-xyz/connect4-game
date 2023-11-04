@@ -12,10 +12,17 @@ https://github.com/Rajkumarsahu-xyz/connect4-game.git
 cd connect4-game
 ```
 
+**Installing modules and packages**
+```bash
+npm install
+```
+
 **Running the game**  
 ```bash
-node index.js
+npm run game
 ```
+To install and configure ESLint, Husky and Prettier, follow this [link](https://dev.to/ruppysuppy/automatically-format-your-code-on-git-commit-using-husky-eslint-prettier-in-9-minutes-45eg).
+
 
 **Instructions for the game**  
 1. You will get the prompt to enter the column turnwise.  
